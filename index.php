@@ -44,12 +44,12 @@
         <div class="shop">
             <h1>Alliés</h1>
             <div id="shop_allies">
-                <div class="carte"><img class="img_allies" src="image/médecin.png" alt=""></div>
-                <div class="carte"><img class="img_allies" src="image/ingénieur.png" alt=""></div>
-                <div class="carte"><img class="img_allies" src="image/infiltré.png" alt=""></div>
-                <div class="carte"><img class="img_allies" src="image/assaut_léger.png" alt=""></div>
-                <div class="carte"><img class="img_allies" src="image/assaut_lourd.png" alt=""></div>
-                <div class="carte"><img class="img_allies" src="image/xam.png" alt=""></div>
+                <div class="carte-allies"><img class="img_allies" src="image/médecin.png" alt=""></div>
+                <div class="carte-allies"><img class="img_allies" src="image/ingénieur.png" alt=""></div>
+                <div class="carte-allies"><img class="img_allies" src="image/infiltré.png" alt=""></div>
+                <div class="carte-allies"><img class="img_allies" src="image/assaut_léger.png" alt=""></div>
+                <div class="carte-allies"><img class="img_allies" src="image/assaut_lourd.png" alt=""></div>
+                <div class="carte-allies"><img class="img_allies" src="image/xam.png" alt=""></div>
             </div>
         </div>
 
