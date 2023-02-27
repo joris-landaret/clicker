@@ -13,7 +13,7 @@
 
     <main>
 
-        <div id="">
+        <div id="plateau">
             <div id="enemis">
                 <img id="clicker" src="image/ps2.jpg" alt="">
             </div>
@@ -33,7 +33,7 @@
             <h1>Arme</h1>
             <div class="armes">
                 <div class="carte_arme"><img class="img_arme" src="image/Cart-5-S_2.png" alt=""></div>
-                <div class="carte_arme"><img class="img_arme" src="image/Arbaléte-MG-A1.png" alt=""></div>
+                <div class="carte_arme"><img class="img_arme" src="image/Arbaléte-MG-A1_2.png" alt=""></div>
                 <div class="carte_arme"><img class="img_arme" src="image/MG-HBR1-Dragon_2.png" alt=""></div>
                 <div class="carte_arme"><img class="img_arme" src="image/M-H1-Vigie_2.png" alt=""></div>
                 <div class="carte_arme"><img class="img_arme" src="image/Percuteur-T2_2.png" alt=""></div>
