@@ -14,16 +14,16 @@
 
         <div>
             <div>
-                <img src="" alt="">
+                <img src="image/ps2.jpg" alt="">
             </div>
 
             <div>
-                <div><img src="" alt=""></div>
-                <div><img src="" alt=""></div>
-                <div><img src="" alt=""></div>
-                <div><img src="" alt=""></div>
-                <div><img src="" alt=""></div>
-                <div><img src="" alt=""></div>
+                <div><img src="image/médecin.png" alt=""></div>
+                <div><img src="image/infiltré.png" alt=""></div>
+                <div><img src="image/assaut_lourd.png" alt=""></div>
+                <div><img src="image/poing.png" alt=""></div>
+                <div><img src="image/assaut_léger.png" alt=""></div>
+                <div><img src="image/ingénieur.png" alt=""></div>
             </div>
         </div>
 
