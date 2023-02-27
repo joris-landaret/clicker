@@ -19,12 +19,12 @@
             </div>
 
             <div id="alliés">
-                <div><img class="img" src="image/médecin.png" alt=""></div>
-                <div><img class="img" src="image/infiltré.png" alt=""></div>
-                <div><img class="img" src="image/assaut_lourd.png" alt=""></div>
-                <div><img id="principal" class="img" src="image/poing.png" alt=""></div>
-                <div><img class="img" src="image/assaut_léger.png" alt=""></div>
-                <div><img class="img" src="image/ingénieur.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/médecin.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/infiltré.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/assaut_lourd.png" alt=""></div>
+                <div class="carte"><img id="principal" class="img" src="image/poing.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/assaut_léger.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/ingénieur.png" alt=""></div>
             </div>
         </div>
 
