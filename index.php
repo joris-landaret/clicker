@@ -15,7 +15,7 @@
 
         <div id="">
             <div id="enemis">
-                <img id="clicker" class="img" src="image/ps2.jpg" alt="">
+                <img id="clicker" src="image/ps2.jpg" alt="">
             </div>
 
             <div id="alliés">
