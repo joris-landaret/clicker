@@ -23,8 +23,33 @@
                 <div class="carte"><img class="img" src="image/infiltré.png" alt=""></div>
                 <div class="carte"><img class="img" src="image/assaut_lourd.png" alt=""></div>
                 <div class="carte"><img id="principal" class="img" src="image/poing.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/xam.png" alt=""></div>
                 <div class="carte"><img class="img" src="image/assaut_léger.png" alt=""></div>
                 <div class="carte"><img class="img" src="image/ingénieur.png" alt=""></div>
+            </div>
+        </div>
+
+        <div class="shop">
+            <h1>Arme</h1>
+            <div>
+                <div class="carte"><img class="img" src="image/Cart-5-S_2.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/Arbaléte-MG-A1.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/MG-HBR1-Dragon_2.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/M-H1-Vigie_2.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/Percuteur-T2_2.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/Pitié-MRC3_2.png" alt=""></div>
+            </div>
+        </div>
+
+        <div class="shop">
+            <h1>Alliés</h1>
+            <div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
             </div>
         </div>
 
