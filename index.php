@@ -67,7 +67,6 @@
                         <button id="dragon" class="bouton1">Acheter</button>
                     </div>
                 </div>
-                <button id="dragon" class="bouton1">Acheter</button>
 
                 <div class="carte_arme">
                     <img class="img_armes" src="image/M-H1-Vigie_2.png" alt="">
