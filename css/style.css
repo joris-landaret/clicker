@@ -3,6 +3,16 @@ body {
     background-color: #1c1a1a;
 }
 
+header {
+    color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+header p {
+    margin: 1%;
+}
+
 main {
     display: flex;
 }
@@ -50,6 +60,10 @@ main {
     align-items: center;
 }
 
+p {
+    margin: 5%;
+}
+
     /* shop armes */
 
 #shop_armes {
@@ -91,7 +105,7 @@ main {
     margin-bottom: 3%;
     color: aliceblue;
     background-color: rgb(15, 224, 155);
-    border-radius: 15%;
+    border-radius: 3px;
 }
 
 .carte-allies div {
