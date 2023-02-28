@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+    background-color: #1c1a1a;
 }
 
 main {
@@ -26,6 +27,7 @@ main {
 }
 
 .carte {
+    
     /* margin: 1px; */
 }
 
@@ -42,6 +44,7 @@ main {
 
 .shop {
     width: 25%;
+    color: aliceblue;
 }
 
     /* shop armes */
@@ -67,5 +70,9 @@ main {
 
 .img_allies {
     width: 99%;
-    height: 216px;
+    height: 167px;
+}
+
+.carte-allies {
+    width: 55%;
 }
