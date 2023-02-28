@@ -42,9 +42,8 @@
                 <div class="carte_arme">
                     <img class="img_armes" src="image/Cart-5-S_2.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id="cart" class="bouton1">Acheter</button>
+                        <p>2 kills</p>
+                        <button id="cart" class="bouton1">20 Certs</button>
                     </div>
                 </div>
 
@@ -52,9 +51,8 @@
                 <div class="carte_arme">
                     <img class="img_armes" src="image/Arbaléte-MG-A1_2.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id="arbalete" class="bouton1">Acheter</button>
+                        <p>5 kills</p>
+                        <button id="arbalete" class="bouton1">666 Certs</button>
                     </div>
                 </div>
 
@@ -62,18 +60,16 @@
                 <div class="carte_arme">
                     <img class="img_armes" src="image/MG-HBR1-Dragon_2.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id="dragon" class="bouton1">Acheter</button>
+                        <p>16 kills</p>
+                        <button id="dragon" class="bouton1">2186 Certs</button>
                     </div>
                 </div>
 
                 <div class="carte_arme">
                     <img class="img_armes" src="image/M-H1-Vigie_2.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id="vigie" class="bouton1">Acheter</button>
+                        <p>43 kills</p>
+                        <button id="vigie" class="bouton1">6666 Certs</button>
                     </div>
                 </div>
 
@@ -81,9 +77,8 @@
                 <div class="carte_arme">
                     <img class="img_armes" src="image/Percuteur-T2_2.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id="percuteur" class="bouton1">Acheter</button>
+                        <p>127 kills</p>
+                        <button id="percuteur" class="bouton1">11729 Certs</button>
                     </div>
                 </div>
 
@@ -91,9 +86,8 @@
                 <div class="carte_arme">
                     <img class="img_armes" src="image/Pitié-MRC3_2.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id="pitie" class="bouton1">Acheter</button>
+                        <p>1000 kills</p>
+                        <button id="pitie" class="bouton1">50000 Certs</button>
                     </div>
                 </div>
 
@@ -111,18 +105,16 @@
                 <div class="carte-allies">
                     <img class="img_allies" src="image/médecin.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id=" medecin" class="bouton1">Acheter</button>
+                        <p>1 kill/s</p>
+                        <button id=" medecin" class="bouton1">100 Certs</button>
                     </div>
                 </div>
 
                 <div class="carte-allies">
                     <img class="img_allies" src="image/ingénieur.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id="ingenieur" class="bouton1">Acheter</button>
+                        <p>3 kills/s</p>
+                        <button id="ingenieur" class="bouton1">999 Certs</button>
                     </div>
                 </div>
 
@@ -131,9 +123,8 @@
                 <div class="carte-allies">
                     <img class="img_allies" src="image/infiltré.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id="infiltré" class="bouton1">Acheter</button>
+                        <p>10 kills/s</p>
+                        <button id="infiltré" class="bouton1">3874 Certs</button>
                     </div>
                 </div>
 
@@ -141,9 +132,8 @@
                 <div class="carte-allies">
                     <img class="img_allies" src="image/assaut_léger.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id="leger" class="bouton1">Acheter</button>
+                        <p>33 kills/s</p>
+                        <button id="leger" class="bouton1">9999 Certs</button>
                     </div>
                 </div>
 
@@ -151,9 +141,8 @@
                 <div class="carte-allies">
                     <img class="img_allies" src="image/assaut_lourd.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id="lourd" class="bouton1">Acheter</button>
+                        <p>59 kills/s</p>
+                        <button id="lourd" class="bouton1">17054 Certs</button>
                     </div>
                 </div>
 
@@ -161,9 +150,8 @@
                 <div class="carte-allies">
                     <img class="img_allies" src="image/xam.png" alt="">
                     <div>
-                        <p>+1 kill/s</p>
-                        <p>100 Cert</p>
-                        <button id="xam" class="bouton1">Acheter</button>
+                        <p>100 kills/s</p>
+                        <button id="xam" class="bouton1">100000 Certs</button>
                     </div>
                 </div>
 
