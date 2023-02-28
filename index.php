@@ -11,6 +11,10 @@
 </head>
 
 <body>
+    <header>
+        <p>1 kill = 1 cert</p>
+        <p id="cert">Certs : </p>
+    </header>
 
     <main>
         <!-- plateau de jeu -->
