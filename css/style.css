@@ -37,7 +37,7 @@ main {
 
 .img {
     width: 99%;
-    height: 216px;
+    height: 220px;
 }
 
 /* div shop */
@@ -45,6 +45,9 @@ main {
 .shop {
     width: 25%;
     color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
     /* shop armes */
@@ -75,8 +78,8 @@ main {
 }
 
 .img_allies {
-    width: 99%;
-    height: 167px;
+    width: 60%;
+    height: 171px;
 }
 
 .carte-allies {
@@ -85,7 +88,7 @@ main {
 }
 
 .bouton1 {
-   
+    margin-bottom: 3%;
     color: aliceblue;
     background-color: rgb(15, 224, 155);
     border-radius: 15%;
@@ -96,4 +99,5 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    width: 45%;
 }
