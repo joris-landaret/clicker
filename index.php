@@ -12,7 +12,7 @@
 
 <body>
     <header>
-        <p>1 kill = 1 cert</p>
+        <p>1 kill = 1 Cert</p>
         <p id="cert">Certs : </p>
     </header>
 
