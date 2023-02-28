@@ -60,6 +60,12 @@ main {
    
 }
 
+.carte_arme div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
     /* shop alliés */
 
 #shop_allies {
@@ -74,5 +80,20 @@ main {
 }
 
 .carte-allies {
-    width: 55%;
+    
+    display: flex;
+}
+
+.bouton1 {
+   
+    color: aliceblue;
+    background-color: rgb(15, 224, 155);
+    border-radius: 15%;
+}
+
+.carte-allies div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
