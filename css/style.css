@@ -27,12 +27,12 @@ main {
 }
 
 .carte {
-    
+    justify-content: center;
     /* margin: 1px; */
 }
 
 #principal {
-
+    justify-content: center;
 }
 
 .img {
