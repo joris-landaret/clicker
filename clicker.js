@@ -54,15 +54,37 @@ const leger = 9999;
 const lourd = 17054;
 const xam = 100000;
 
+// nombre de click des armes
+const cartClick = 2;
 
 function soustrairePrix(prix) {
-    cert = localStorage.getItem('cert') - prix;
-    cert -= prix;
-    return cert;
+
+    if(localStorage.getItem('cert') >= 20) {
+
+        localStorage.setItem('cert', cert - prix)
+        certP.innerText = "Certs : " + localStorage.getItem('cert');
+       
+        return cert;
+
+    }
+    else {
+        console.log('non');
+    }
+}
+
+function plusDeClick() {
+
+
 
 }
 
 boutonCart.addEventListener('click', () => {
+
     soustrairePrix(cart);
 
+
 });
+
+
+
+//certP.innerHTML = "Certs : " + localStorage.getItem('cert');
