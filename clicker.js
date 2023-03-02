@@ -56,6 +56,19 @@ const xam = 100000;
 
 // nombre de click des armes
 const cartClick = 2;
+const arbaleteClick = 5;
+const dragonClick = 16;
+const vigieClick = 43;
+const percuteurClick = 127;
+const pitieClick = 1000;
+
+// nombre de kill des alliés
+const medecinClick = 1;
+const ingenieurClick = 3;
+const infiltreClick = 10;
+const legerClick = 33;
+const lourdClick = 59;
+const xamClick = 100;
 
 function soustrairePrix(prix) {
 
@@ -82,9 +95,12 @@ boutonCart.addEventListener('click', () => {
 
     soustrairePrix(cart);
 
-
 });
 
+function bouton(bouton) {
 
+    bouton.addEventListener('click', )
+
+}
 
 //certP.innerHTML = "Certs : " + localStorage.getItem('cert');
