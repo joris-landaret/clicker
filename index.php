@@ -27,13 +27,13 @@
             <!-- plateau alliés -->
             <div id="allies">
                 <!-- alliés de dos-->
-                <div class="carte"><img class="img" src="image/médecin.png" alt=""></div>
-                <div class="carte"><img class="img" src="image/infiltré.png" alt=""></div>
-                <div class="carte"><img class="img" src="image/assaut_lourd.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/ingénieurD.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/infiltréD.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/assaut_lourdD.png" alt=""></div>
                 <div class="carte"><img id="principal" class="img" src="image/poing.png" alt=""></div> <!-- le clicker vue à la première personne -->
-                <div class="carte"><img class="img" src="image/xam.png" alt=""></div>
-                <div class="carte"><img class="img" src="image/assaut_léger.png" alt=""></div>
-                <div class="carte"><img class="img" src="image/ingénieur.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/xamD.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/assaut_légerD.png" alt=""></div>
+                <div class="carte"><img class="img" src="image/ingénieurD.png" alt=""></div>
             </div>
         </div>
 
@@ -108,7 +108,7 @@
             <div id="shop_allies">
 
                 <div class="carte-allies">
-                    <img class="img_allies" src="image/médecin.png" alt="">
+                    <img class="img_allies" src="image/ingénieurF.png" alt="">
                     <div>
                         <p>1 kill/s</p>
                         <button id=" medecin" class="bouton1">100 Certs</button>
@@ -116,7 +116,7 @@
                 </div>
 
                 <div class="carte-allies">
-                    <img class="img_allies" src="image/ingénieur.png" alt="">
+                    <img class="img_allies" src="image/ingénieurF.png" alt="">
                     <div>
                         <p>3 kills/s</p>
                         <button id="ingenieur" class="bouton1">999 Certs</button>
@@ -126,7 +126,7 @@
 
 
                 <div class="carte-allies">
-                    <img class="img_allies" src="image/infiltré.png" alt="">
+                    <img class="img_allies" src="image/infiltréF.png" alt="">
                     <div>
                         <p>10 kills/s</p>
                         <button id="infiltré" class="bouton1">3874 Certs</button>
@@ -135,7 +135,7 @@
 
 
                 <div class="carte-allies">
-                    <img class="img_allies" src="image/assaut_léger.png" alt="">
+                    <img class="img_allies" src="image/assaut_légerF.png" alt="">
                     <div>
                         <p>33 kills/s</p>
                         <button id="leger" class="bouton1">9999 Certs</button>
@@ -144,7 +144,7 @@
 
 
                 <div class="carte-allies">
-                    <img class="img_allies" src="image/assaut_lourd.png" alt="">
+                    <img class="img_allies" src="image/assaut_lourdF.png" alt="">
                     <div>
                         <p>59 kills/s</p>
                         <button id="lourd" class="bouton1">17054 Certs</button>
@@ -153,7 +153,7 @@
 
 
                 <div class="carte-allies">
-                    <img class="img_allies" src="image/xam.png" alt="">
+                    <img class="img_allies" src="image/xamF.png" alt="">
                     <div>
                         <p>100 kills/s</p>
                         <button id="xam" class="bouton1">100000 Certs</button>
