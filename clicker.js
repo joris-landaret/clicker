@@ -1,15 +1,29 @@
-let cert = 0;
+let cert = "";
 
 let clicker = document.body.querySelector('#clicker');
 let certP = document.body.querySelector('#cert');
 
+// Compteur
 function compte() {
-    cert += 1
-    certP.innerHTML = "Certs : " + cert;
+    cert = (localStorage.getItem('cert'));
+    cert++
+    localStorage.setItem('cert', cert)
+    certP.innerText = "Certs : " + cert;
     return cert;
+   
 }
 
-clicker.addEventListener('click', compte);
+if(localStorage.getItem('cert')) {
+    certP.innerHTML = "Certs : " + localStorage.getItem('cert');
+    clicker.addEventListener('click', compte);
+}
+else {
+    
+    localStorage.setItem('cert', "0");
+    //certP.innerHTML = "Certs : " + cert;
+}
+
+//clicker.addEventListener('click', compte);
 
 // Arme
 
@@ -32,12 +46,23 @@ const vigie = 6666;
 const percuteur = 11729;
 const pitie = 50000;
 
+// Prix alliés
+const medecin = 100;
+const ingenieur = 999;
+const infiltre = 3874;
+const leger = 9999;
+const lourd = 17054;
+const xam = 100000;
 
-function arme(arme) {
-    
-    cert -= arme;
+
+function soustrairePrix(prix) {
+    cert = localStorage.getItem('cert') - prix;
+    cert -= prix;
     return cert;
 
 }
 
-boutonCart.addEventListener('click', arme(cart));
+boutonCart.addEventListener('click', () => {
+    soustrairePrix(cart);
+
+});
