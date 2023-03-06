@@ -5,6 +5,7 @@ let certP = document.body.querySelector('#cert');
 
 // Compteur
 function compte() {
+    
     cert = (localStorage.getItem('cert'));
     cert++
     localStorage.setItem('cert', cert)
@@ -14,8 +15,24 @@ function compte() {
 }
 
 if(localStorage.getItem('cert')) {
+    
     certP.innerHTML = "Certs : " + localStorage.getItem('cert');
-    clicker.addEventListener('click', compte);
+    clicker.addEventListener('click', () => {
+        
+
+        if(boutonCart.addEventListener('click', () => {
+
+            soustrairePrix(cart);
+            
+        })) {
+            console.log('ok');
+            plusDeClick(cartClick);
+        }
+        else {
+            console.log('nop');
+            compte();
+        }
+    });
 }
 else {
     
@@ -85,17 +102,20 @@ function soustrairePrix(prix) {
     }
 }
 
-function plusDeClick() {
+// ajoute les click une fois l'arme acheté
+function plusDeClick(arme) {
 
-
+    localStorage.setItem('cert', cert + arme)
+    certP.innerText = "Certs : " + localStorage.getItem('cert');
+    return cert;
 
 }
 
-boutonCart.addEventListener('click', () => {
+// boutonCart.addEventListener('click', () => {
 
-    soustrairePrix(cart);
-
-});
+//     soustrairePrix(cart);
+    
+// });
 
 function bouton(bouton) {
 
